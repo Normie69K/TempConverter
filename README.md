@@ -20,7 +20,7 @@ A simple console-based temperature converter written in C. This program allows u
 
 1. Clone the repository:
    ```bash
-   https://github.com/Normie69K/TempConverter/tree/main
+   https://github.com/Normie69K/TempConverter.git
    ```
 
 2. Navigate to the project directory:
